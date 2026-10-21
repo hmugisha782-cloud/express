@@ -1,2 +1,1 @@
-node_modules/
-.env
+.envmongodb+srv://hmugisha782_db_user:habarugira23@cluster0.p5ypxzz.mongodb.net/mugisha782-db-user
